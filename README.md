@@ -4,7 +4,7 @@
 
 ### Project Draft Jupyter Notebook
 
-`descEmb_project_draft.ipynb`
+`descemb_project_draft_submission.ipynb`
 
 **Name:** Gene Horecka  
 **Email:** [geneeh2@illinois.edu](mailto:geneeh2@illinois.edu)  
