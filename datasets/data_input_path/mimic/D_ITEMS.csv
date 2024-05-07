@@ -1,4 +1,4 @@
-row_id,itemid,label,abbreviation,dbsource,linksto,category,unitname,param_type,conceptid
+ROW_ID,ITEMID,LABEL,ABBREVIATION,DBSOURCE,LINKSTO,CATEGORY,UNITNAME,PARAM_TYPE,CONCEPTID
 1,1435,Sustained Nystamus,,carevue,chartevents,,,,
 2,1436,Tactile Disturbances,,carevue,chartevents,,,,
 3,1437,Tremor,,carevue,chartevents,,,,
@@ -5345,7 +5345,7 @@ row_id,itemid,label,abbreviation,dbsource,linksto,category,unitname,param_type,c
 5422,30133,Sandostatin,,carevue,inputevents_cv,,,,
 5423,30135,TPA,,carevue,inputevents_cv,,,,
 5426,30139,Valium,,carevue,inputevents_cv,,,,
-5427,30140,N/A,,carevue,inputevents_cv,,,,
+5427,30140,,,carevue,inputevents_cv,,,,
 5428,30141,Ativan,,carevue,inputevents_cv,,,,
 5429,30143,3% Normal Saline,,carevue,inputevents_cv,,,,
 5431,30146,Aprotinin,,carevue,inputevents_cv,,,,

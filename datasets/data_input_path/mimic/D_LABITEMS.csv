@@ -1,4 +1,4 @@
-row_id,itemid,label,fluid,category,loinc_code
+ROW_ID,ITEMID,LABEL,FLUID,CATEGORY,LOINC_CODE
 1,50800,SPECIMEN TYPE,BLOOD,BLOOD GAS,
 2,50801,Alveolar-arterial Gradient,Blood,Blood Gas,19991-9
 3,50802,Base Excess,Blood,Blood Gas,11555-0

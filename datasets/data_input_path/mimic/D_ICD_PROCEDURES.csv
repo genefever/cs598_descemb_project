@@ -1,4 +1,4 @@
-row_id,icd9_code,short_title,long_title
+ROW_ID,ICD9_CODE,SHORT_TITLE,LONG_TITLE
 1,1423,Chorioret les xenon coag,Destruction of chorioretinal lesion by xenon arc photocoagulation
 2,1424,Chorioret les laser coag,Destruction of chorioretinal lesion by laser photocoagulation
 3,1425,Chorioret les p/coag NOS,Destruction of chorioretinal lesion by photocoagulation of unspecified type
@@ -83,371 +83,371 @@ row_id,icd9_code,short_title,long_title
 82,1671,Remove ocular implant,Removal of ocular implant
 83,1672,Remove orbital implant,Removal of orbital implant
 84,1681,Repair of orbital wound,Repair of wound of orbit
-85,0063,Perc ins carotid stent,Percutaneous insertion of carotid artery stent(s)
-86,0064,Perc ins extracran stent,Percutaneous insertion of other extracranial artery stent(s)
-87,0065,Perc ins intracran stent,Percutaneous insertion of intracranial vascular stent(s)
-88,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
-89,0067,Intravas msmnt thorc art,Intravascular pressure measurement of intrathoracic arteries
-90,0068,Intravas msmt periph art,Intravascular pressure measurement of peripheral arteries
-91,0069,Intravs msmt ves NEC/NOS,"Intravascular pressure measurement, other specified and unspecified vessels"
-92,0070,Rev hip repl-acetab/fem,"Revision of hip replacement, both acetabular and femoral components"
-93,0071,Rev hip repl-acetab comp,"Revision of hip replacement, acetabular component"
-94,0072,Rev hip repl-fem comp,"Revision of hip replacement, femoral component"
-95,0073,Rev hip repl-liner/head,"Revision of hip replacement, acetabular liner and/or femoral head only"
-96,0074,"Hip surface, metal/poly","Hip bearing surface, metal-on-polyethylene"
-97,0075,"Hip surface, metal/metal","Hip bearing surface, metal-on-metal"
-98,0076,"Hip surface, cermc/cermc","Hip bearing surface, ceramic-on-ceramic"
-99,0077,"Hip surface, cermc/poly","Hip bearing surface, ceramic-on-polyethylene"
-100,0080,Rev knee replacemt-total,"Revision of knee replacement, total (all components)"
-101,0081,Rev knee repl-tibia comp,"Revision of knee replacement, tibial component"
-102,0082,Rev knee repl-femur comp,"Revision of knee replacement, femoral component"
-103,0083,Rev knee replace-patella,"Revision of knee replacement, patellar component"
-104,0084,Rev knee repl-tibia lin,"Revision of total knee replacement, tibial insert (liner)"
-105,0085,"Resrf hip,total-acet/fem","Resurfacing hip, total, acetabulum and femoral head"
-106,0086,"Resrf hip,part-fem head","Resurfacing hip, partial, femoral head"
-107,0087,"Resrf hip,part-acetablum","Resurfacing hip, partial, acetabulum"
-108,0091,Trnsplnt live rel donor,Transplant from live related donor
-109,0092,Trnsplnt live nonrel don,Transplant from live non-related donor
-110,0093,Transplant cadaver donor,Transplant from cadaver
-111,0094,Intra-op neurophys montr,Intra-operative neurophysiologic monitoring
-112,0095,Injct/infus glucarpidase,Injection or infusion of glucarpidase
-113,0096,Infusion 4F-PCC,Infusion of 4-Factor Prothrombin Complex Concentrate
-114,0101,Cisternal puncture,Cisternal puncture
-115,0102,Ventricl shunt tube punc,Ventriculopuncture through previously implanted catheter
-116,0109,Cranial puncture NEC,Other cranial puncture
-117,0110,Intracran pressure montr,Intracranial pressure monitoring
-118,0111,Clos cereb meninges bx,Closed [percutaneous] [needle] biopsy of cerebral meninges
-119,0112,Open cereb meninges bx,Open biopsy of cerebral meninges
-120,0113,Closed brain biopsy,Closed [percutaneous] [needle] biopsy of brain
-121,0114,Open brain biopsy,Open biopsy of brain
-122,0115,Skull biopsy,Biopsy of skull
-123,0116,Intracranial 02 monitor,Intracranial oxygen monitoring
-124,0117,Brain temp monitoring,Brain temperature monitoring
-125,0118,Other brain dx procedure,Other diagnostic procedures on brain and cerebral meninges
-126,0119,Other skull dx procedure,Other diagnostic procedures on skull
-127,0120,Imp/repl brain pulse gen,Cranial implantation or replacement of neurostimulator pulse generator
-128,0121,Cranial sinus i & d,Incision and drainage of cranial sinus
-129,0122,Removal brain stim lead,Removal of intracranial neurostimulator lead(s)
-130,0123,Reopen craniotomy site,Reopening of craniotomy site
-131,0124,Other craniotomy,Other craniotomy
-132,0125,Other craniectomy,Other craniectomy
-133,0126,Ins cath cranial cav/tis,Insertion of catheter(s) into cranial cavity or tissue
-134,0127,Rem cath cranial cav/tis,Removal of catheter(s) from cranial cavity or tissue
-135,0128,Intracereb cth-burr hole,Placement of intracerebral catheter(s) via burr hole(s)
-136,0129,Rem brain pulse generatr,Removal of cranial neurostimulator pulse generator
-137,0001,Ther ult head & neck ves,Therapeutic ultrasound of vessels of head and neck
-138,0002,Ther ultrasound of heart,Therapeutic ultrasound of heart
-139,0003,Ther ult peripheral ves,Therapeutic ultrasound of peripheral vascular vessels
-140,0009,Other therapeutic ultsnd,Other therapeutic ultrasound
-141,0010,Implant chemothera agent,Implantation of chemotherapeutic agent
-142,0011,Infus drotrecogin alfa,Infusion of drotrecogin alfa (activated)
-143,0012,Adm inhal nitric oxide,Administration of inhaled nitric oxide
-144,0013,Inject/infus nesiritide,Injection or infusion of nesiritide
-145,0014,Injection oxazolidinone,Injection or infusion of oxazolidinone class of antibiotics
-146,0015,High-dose infusion IL-2,High-dose infusion interleukin-2 [IL-2]
-147,0016,Pressurized treat graft,Pressurized treatment of venous bypass graft [conduit] with pharmaceutical substance
-148,0017,Infusion of vasopressor,Infusion of vasopressor agent
-149,0018,Infus immunosup antibody,Infusion of immunosuppressive antibody therapy
-150,0019,BBBD via infusion,Disruption of blood brain barrier via infusion [BBBD]
-151,0021,IVUS extracran cereb ves,Intravascular imaging of extracranial cerebral vessels
-152,0022,IVUS intrathoracic ves,Intravascular imaging of intrathoracic vessels
-153,0023,IVUS peripheral vessels,Intravascular imaging of peripheral vessels
-154,0024,IVUS coronary vessels,Intravascular imaging of coronary vessels
-155,0025,IVUS renal vessels,Intravascular imaging of renal vessels
-156,0028,Intravascul imaging NEC,"Intravascular imaging, other specified vessel(s)"
-157,0029,Intravascul imaging NOS,"Intravascular imaging, unspecified vessel(s)"
-158,0031,CAS w CT/CTA,Computer assisted surgery with CT/CTA
-159,0032,CAS w MR/MRA,Computer assisted surgery with MR/MRA
-160,0033,CAS w fluoroscopy,Computer assisted surgery with fluoroscopy
-161,0034,Imageless comp asst surg,Imageless computer assisted surgery
-162,0035,CAS w multiple datasets,Computer assisted surgery with multiple datasets
-163,0039,Other CAS,Other computer assisted surgery
-164,0040,Procedure-one vessel,Procedure on single vessel
-165,0041,Procedure-two vessels,Procedure on two vessels
-166,0042,Procedure-three vessels,Procedure on three vessels
-167,0043,Procedure-four+ vessels,Procedure on four or more vessels
-168,0044,Proc-vessel bifurcation,Procedure on vessel bifurcation
-169,0045,Insert 1 vascular stent,Insertion of one vascular stent
-170,0046,Insert 2 vascular stents,Insertion of two vascular stents
-171,0047,Insert 3 vascular stents,Insertion of three vascular stents
-172,0048,Insert 4+ vasculr stents,Insertion of four or more vascular stents
-173,0049,SuperSat O2 therapy,Supersaturated oxygen therapy
-174,0050,Impl CRT pacemaker sys,"Implantation of cardiac resynchronization pacemaker without mention of defibrillation, total system [CRT-P]"
-175,0051,Impl CRT defibrillat sys,"Implantation of cardiac resynchronization defibrillator, total system [CRT-D]"
-176,0052,Imp/rep lead lf ven sys,Implantation or replacement of transvenous lead [electrode] into left ventricular coronary venous system
-177,0053,Imp/rep CRT pacemakr gen,Implantation or replacement of cardiac resynchronization pacemaker pulse generator only [CRT-P]
-178,0054,Imp/rep CRT defib genat,Implantation or replacement of cardiac resynchronization defibrillator pulse generator only [CRT-D]
-179,0055,Ins d-e stent oth periph,Insertion of drug-eluting stent(s) of other peripheral vessel(s)
-180,0056,Ins/rep sens-crd/vsl mtr,Insertion or replacement of implantable pressure sensor with lead for intracardiac or great vessel hemodynamic monitoring
-181,0057,Imp/rep subcue card dev,Implantation or replacement of subcutaneous device for intracardiac or great vessel hemodynamic monitoring
-182,0058,Ins intra-ansm pres mntr,Insertion of intra-aneurysm sac pressure monitoring device (intraoperative)
-183,0059,Intravasc msmnt cor art,Intravascular pressure measurement of coronary arteries
-184,0060,Ins d-e stnt sup fem art,Insertion of drug-eluting stent(s) of superficial femoral artery
-185,0061,Perc angio extracran ves,Percutaneous angioplasty of extracranial vessel(s)
-186,0062,Perc angio intracran ves,Percutaneous angioplasty of intracranial vessel(s)
-187,0331,Spinal tap,Spinal tap
-188,0332,Spinal cord/meninges bx,Biopsy of spinal cord or spinal meninges
-189,0339,Other spinal dx proc,Other diagnostic procedures on spinal cord and spinal canal structures
-190,034,Excis spinal cord lesion,Excision or destruction of lesion of spinal cord or spinal meninges
-191,0351,Spine meningocele repair,Repair of spinal meningocele
-192,0352,Myelomeningocel repair,Repair of spinal myelomeningocele
-193,0353,Vertebral fx repair,Repair of vertebral fracture
-194,0359,Spinal struct repair NEC,Other repair and plastic operations on spinal cord structures
-195,036,Spinal cord adhesiolysis,Lysis of adhesions of spinal cord and nerve roots
-196,0371,Subarach-periton shunt,Spinal subarachnoid-peritoneal shunt
-197,0372,Subarach-ureteral shunt,Spinal subarachnoid-ureteral shunt
-198,0379,Oth spinal thecal shunt,Other shunt of spinal theca
-199,038,Destr inject-spine canal,Injection of destructive agent into spinal canal
-200,0390,Insert spinal canal cath,Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances
-201,0391,Anesth inject-spin canal,Injection of anesthetic into spinal canal for analgesia
-202,0392,Spinal canal inject NEC,Injection of other agent into spinal canal
-203,0393,Imp/repl spine stim lead,Implantation or replacement of spinal neurostimulator lead(s)
-204,0394,Removal spine stim lead,Removal of spinal neurostimulator lead(s)
-205,0395,Spinal patch,Spinal blood patch
-206,0396,Percutan facet denervat,Percutaneous denervation of facet
-207,0397,Revise spine theca shunt,Revision of spinal thecal shunt
-208,0398,Remove spine theca shunt,Removal of spinal thecal shunt
-209,0399,Spine canal struc op NEC,Other operations on spinal cord and spinal canal structures
-210,0401,Excision acoustc neuroma,Excision of acoustic neuroma
-211,0402,Trigeminal nerv division,Division of trigeminal nerve
-212,0403,Periph nerve div NEC,Division or crushing of other cranial and peripheral nerves
-213,0404,Periph nerve incis NEC,Other incision of cranial and peripheral nerves
-214,0405,Gasserian ganglionectomy,Gasserian ganglionectomy
-215,0406,Periph ganglionect NEC,Other cranial or peripheral ganglionectomy
-216,0407,Periph nerv excision NEC,Other excision or avulsion of cranial and peripheral nerves
-217,0201,Linear craniectomy,Opening of cranial suture
-218,0202,Elevate skull fx fragmnt,Elevation of skull fracture fragments
-219,0203,Skull flap formation,Formation of cranial bone flap
-220,0204,Bone graft to skull,Bone graft to skull
-221,0205,Skull plate insertion,Insertion of skull plate
-222,0206,Cranial osteoplasty NEC,Other cranial osteoplasty
-223,0207,Skull plate removal,Removal of skull plate
-224,0211,Simple suture of dura,Simple suture of dura mater of brain
-225,0212,Brain meninge repair NEC,Other repair of cerebral meninges
-226,0213,Meninge vessel ligation,Ligation of meningeal vessel
-227,0214,Choroid plexectomy,Choroid plexectomy
-228,0221,Insert/replace EVD,Insertion or replacement of external ventricular drain [EVD]
-229,0222,Intrcran vent shunt/anas,Intracranial ventricular shunt or anastomosis
-230,0231,Ventricl shunt-head/neck,Ventricular shunt to structure in head and neck
-231,0232,Ventri shunt-circula sys,Ventricular shunt to circulatory system
-232,0233,Ventricl shunt-thorax,Ventricular shunt to thoracic cavity
-233,0234,Ventricl shunt-abdomen,Ventricular shunt to abdominal cavity and organs
-234,0235,Ventri shunt-uninary sys,Ventricular shunt to urinary system
-235,0239,Vent shunt extracran NEC,Ventricular shunt to extracranial site NEC
-236,0241,Irrigate/expl vent shunt,Irrigation and exploration of ventricular shunt
-237,0242,Replace ventricle shunt,Replacement of ventricular shunt
-238,0243,Remove ventricle shunt,Removal of ventricular shunt
-239,0291,Lysis cortical adhesion,Lysis of cortical adhesions
-240,0292,Brain repair,Repair of brain
-241,0293,Imp/repl brain stim lead,Implantation or replacement of intracranial neurostimulator lead(s)
-242,0294,Insert/replac skull tong,Insertion or replacement of skull tongs or halo traction device
-243,0295,Remove skull tongs,Removal of skull tongs or halo traction device
-244,0296,Insert sphenoid electrod,Insertion of sphenoidal electrodes
-245,0299,Skull & brain op NEC,"Other operations on skull, brain, and cerebral meninges"
-246,0301,Removal FB spinal canal,Removal of foreign body from spinal canal
-247,0302,Reopen laminectomy site,Reopening of laminectomy site
-248,0309,Spinal canal explor NEC,Other exploration and decompression of spinal canal
-249,031,Intraspin nerve root div,Division of intraspinal nerve root
-250,0321,Percutaneous chordotomy,Percutaneous chordotomy
-251,0329,Other chordotomy,Other chordotomy
-252,0131,Incise cerebral meninges,Incision of cerebral meninges
-253,0132,Lobotomy & tractotomy,Lobotomy and tractotomy
-254,0139,Other brain incision,Other incision of brain
-255,0141,Thalamus operations,Operations on thalamus
-256,0142,Globus pallidus ops,Operations on globus pallidus
-257,0151,Ex cereb meningeal les,Excision of lesion or tissue of cerebral meninges
-258,0152,Hemispherectomy,Hemispherectomy
-259,0153,Brain lobectomy,Lobectomy of brain
-260,0159,Other brain excision,Other excision or destruction of lesion or tissue of brain
-261,016,Excise skull lesion,Excision of lesion of skull
-262,0844,Lid recons entropion rep,Repair of entropion or ectropion with lid reconstruction
-263,0849,Entropion/ectrop rep NEC,Other repair of entropion or ectropion
-264,0851,Canthotomy,Canthotomy
-265,0852,Blepharorrhaphy,Blepharorrhaphy
-266,0859,Adjust lid position NEC,Other adjustment of lid position
-267,0861,Lid reconst w skin graft,Reconstruction of eyelid with skin flap or graft
-268,0862,Lid reconst w muc graft,Reconstruction of eyelid with mucous membrane flap or graft
-269,0863,Lid reconst w hair graft,Reconstruction of eyelid with hair follicle graft
-270,0864,Lid recon-tarsoconj flap,Reconstruction of eyelid with tarsoconjunctival flap
-271,0869,Lid reconstr w graft NEC,Other reconstruction of eyelid with flaps or grafts
-272,0870,Lid reconstruction NOS,"Reconstruction of eyelid, not otherwise specified"
-273,0871,Lid marg recon-part thic,"Reconstruction of eyelid involving lid margin, partial-thickness"
-274,0872,Lid recons-part thic NEC,"Other reconstruction of eyelid, partial-thickness"
-275,0873,Lid marg recons ful thic,"Reconstruction of eyelid involving lid margin, full-thickness"
-276,0874,Lid reconst-ful thic NEC,"Other reconstruction of eyelid, full-thickness"
-277,0881,Linear rep lid lacer,Linear repair of laceration of eyelid or eyebrow
-278,0882,Lid marg lac rx-part th,"Repair of laceration involving lid margin, partial-thickness"
-279,0883,Lid lacer rx-prt th NEC,"Other repair of laceration of eyelid, partial-thickness"
-280,0884,Lid marg lac rx-ful thic,"Repair of laceration involving lid margin, full-thickness"
-281,0885,Lid lac rx-ful thic NEC,"Other repair of laceration of eyelid, full-thickness"
-282,0886,Lower lid rhytidectomy,Lower eyelid rhytidectomy
-283,0887,Upper lid rhytidectomy,Upper eyelid rhytidectomy
-284,0889,Eyelid repair NEC,Other eyelid repair
-285,0891,Electrosurg lid epilat,Electrosurgical epilation of eyelid
-286,0892,Cryosurg lid epilation,Cryosurgical epilation of eyelid
-287,0893,Eyelid epilation NEC,Other epilation of eyelid
-288,0899,Eyelid operation NEC,Other operations on eyelids
-289,090,Lacrimal gland incision,Incision of lacrimal gland
-290,0911,Lacrimal gland biopsy,Biopsy of lacrimal gland
-291,0912,Lacrimal sac biopsy,Biopsy of lacrimal sac
-292,0919,Lacrimal sys dx proc NEC,Other diagnostic procedures on lacrimal system
-293,0920,Exc lacrimal gland NOS,"Excision of lacrimal gland, not otherwise specified"
-294,0921,Excis les lacrimal gland,Excision of lesion of lacrimal gland
-295,0922,Part dacryoadenect NEC,Other partial dacryoadenectomy
-296,0923,Total dacryoadenectomy,Total dacryoadenectomy
-297,093,Other lacrimal gland ops,Other operations on lacrimal gland
-298,0941,Lacrimal punctum probe,Probing of lacrimal punctum
-299,0942,Lac canaliculi probe,Probing of lacrimal canaliculi
-300,0943,Nasolacrimal duct probe,Probing of nasolacrimal duct
-301,0944,Nasolac duct intubat,Intubation of nasolacrimal duct
-302,0949,Lac passage manip NEC,Other manipulation of lacrimal passage
-303,0951,Lac punctum incision,Incision of lacrimal punctum
-304,0952,Lac canaliculi incision,Incision of lacrimal canaliculi
-305,0953,Lacrimal sac incision,Incision of lacrimal sac
-306,0959,Lacrim passage incis NEC,Other incision of lacrimal passages
-307,096,Lacrim sac/passage excis,Excision of lacrimal sac and passage
-308,0971,Correct everted punctum,Correction of everted punctum
-309,0972,Punctum repair NEC,Other repair of punctum
-310,0973,Canaliculus repair,Repair of canaliculus
-311,0981,Dacryocystorhinostomy,Dacryocystorhinostomy [DCR]
-312,0982,Conjunctivocystorhinost,Conjunctivocystorhinostomy
-313,0983,Conjunctivorhinos w tube,Conjunctivorhinostomy with insertion of tube or stent
-314,0411,Clos periph nerve biopsy,Closed [percutaneous] [needle] biopsy of cranial or peripheral nerve or ganglion
-315,0412,Open periph nerve biopsy,Open biopsy of cranial or peripheral nerve or ganglion
-316,0419,Periph nerve dx proc NEC,Other diagnostic procedures on cranial and peripheral nerves and ganglia
-317,042,Periph nerve destruction,Destruction of cranial and peripheral nerves
-318,043,Peripheral nerve suture,Suture of cranial and peripheral nerves
-319,0441,Decompress trigem root,Decompression of trigeminal nerve root
-320,0442,Cran nerv root decom NEC,Other cranial nerve decompression
-321,0443,Carpal tunnel release,Release of carpal tunnel
-322,0444,Tarsal tunnel release,Release of tarsal tunnel
-323,0449,Per nerve adhesiolys NEC,Other peripheral nerve or ganglion decompression or lysis of adhesions
-324,045,Peripheral nerve graft,Cranial or peripheral nerve graft
-325,046,Periph nerve transposit,Transposition of cranial and peripheral nerves
-326,0471,Hypogloss-facial anastom,Hypoglossal-facial anastomosis
-327,0472,Accessory-facial anastom,Accessory-facial anastomosis
-328,0473,Access-hypogloss anastom,Accessory-hypoglossal anastomosis
-329,0474,Periph nerv anastom NEC,Other anastomosis of cranial or peripheral nerve
-330,0475,Postop revis per nerv op,Revision of previous repair of cranial and peripheral nerves
-331,0476,Late repair per nerv inj,Repair of old traumatic injury of cranial and peripheral nerves
-332,0479,Other neuroplasty,Other neuroplasty
-333,0480,Periph nerve inject NOS,"Peripheral nerve injection, not otherwise specified"
-334,0481,Anesth injec periph nerv,Injection of anesthetic into peripheral nerve for analgesia
-335,0489,Periph nerve inject NEC,"Injection of other agent, except neurolytic"
-336,0491,Neurectasis,Neurectasis
-337,0492,Imp/repl peri stim lead,Implantation or replacement of peripheral neurostimulator lead(s)
-338,0493,Removal peri stim lead,Removal of peripheral neurostimulator lead(s)
-339,0499,Peripheral nerve ops NEC,Other operations on cranial and peripheral nerves
-340,050,Sympath nerve division,Division of sympathetic nerve or ganglion
-341,0511,Sympathetic nerve biopsy,Biopsy of sympathetic nerve or ganglion
-342,0519,Sympath nrv dx proc NEC,Other diagnostic procedures on sympathetic nerves or ganglia
-343,0521,Sphenopalatin ganglionec,Sphenopalatine ganglionectomy
-344,0522,Cervical sympathectomy,Cervical sympathectomy
-345,0523,Lumbar sympathectomy,Lumbar sympathectomy
-346,0524,Presacral sympathectomy,Presacral sympathectomy
-347,0525,Periart sympathectomy,Periarterial sympathectomy
-348,0529,Other sympathectomy,Other sympathectomy and ganglionectomy
-349,0531,Anesth inject symp nerve,Injection of anesthetic into sympathetic nerve for analgesia
-350,0532,Neurolyt injec-symp nrv,Injection of neurolytic agent into sympathetic nerve
-351,0539,Sympath nerve inject NEC,Other injection into sympathetic nerve or ganglion
-352,0581,Sympathetic nerve repair,Repair of sympathetic nerve or ganglion
-353,0589,Sympathetic nerve op NEC,Other operations on sympathetic nerves or ganglia
-354,059,Other nervous system ops,Other operations on nervous system
-355,0601,Thyroid field aspiration,Aspiration of thyroid field
-356,0602,Reopen thyroid field wnd,Reopening of wound of thyroid field
-357,0609,Incis thyroid field NEC,Other incision of thyroid field
-358,0611,Closed thyroid gland bx,Closed [percutaneous] [needle] biopsy of thyroid gland
-359,0612,Open thyroid gland bx,Open biopsy of thyroid gland
-360,0613,Parathyroid biopsy,Biopsy of parathyroid gland
-361,0619,Thyr/parathy dx proc NEC,Other diagnostic procedures on thyroid and parathyroid glands
-362,062,Unilat thyroid lobectomy,Unilateral thyroid lobectomy
-363,0631,Excision thyroid lesion,Excision of lesion of thyroid
-364,0639,Part thyroidectomy NEC,Other partial thyroidectomy
-365,064,Complete thyroidectomy,Complete thyroidectomy
-366,0650,Substern thyroidect NOS,"Substernal thyroidectomy, not otherwise specified"
-367,0651,Part substern thyroidect,Partial substernal thyroidectomy
-368,0652,Tot substern thyroidect,Complete substernal thyroidectomy
-369,066,Lingual thyroid excision,Excision of lingual thyroid
-370,067,Thyrogloss duct excision,Excision of thyroglossal duct or tract
-371,0681,Total parathyroidectomy,Complete parathyroidectomy
-372,0689,Other parathyroidectomy,Other parathyroidectomy
-373,0691,Thyroid isthmus division,Division of thyroid isthmus
-374,0692,Thyroid vessel ligation,Ligation of thyroid vessels
-375,0693,Thyroid suture,Suture of thyroid gland
-376,0694,Thyroid reimplantation,Thyroid tissue reimplantation
-377,0695,Parathyroid reimplant,Parathyroid tissue reimplantation
-378,0698,Other thyroid operations,Other operations on thyroid glands
-379,0699,Other parathyroid ops,Other operations on parathyroid glands
-380,0700,Adrenal exploration NOS,"Exploration of adrenal field, not otherwise specified"
-381,0701,Unilat adrenal explorat,Unilateral exploration of adrenal field
-382,0702,Bilat adrenal explorat,Bilateral exploration of adrenal field
-383,0711,Closed adrenal gland bx,Closed [percutaneous] [needle] biopsy of adrenal gland
-384,0712,Open adrenal gland bx,Open biopsy of adrenal gland
-385,0713,Transfront pituitary bx,"Biopsy of pituitary gland, transfrontal approach"
-386,0714,Transphen pituitary bx,"Biopsy of pituitary gland, transsphenoidal approach"
-387,0715,Pituitary biopsy NOS,"Biopsy of pituitary gland, unspecified approach"
-388,0716,Thymus biopsy,Biopsy of thymus
-389,0717,Pineal biopsy,Biopsy of pineal gland
-390,0719,Endocrine dx proc NEC,"Other diagnostic procedures on adrenal glands, pituitary gland, pineal gland, and thymus"
-391,0721,Adrenal lesion excision,Excision of lesion of adrenal gland
-392,0722,Unilateral adrenalectomy,Unilateral adrenalectomy
-393,0729,Part adrenalectomy NEC,Other partial adrenalectomy
-394,073,Bilateral adrenalectomy,Bilateral adrenalectomy
-395,0741,Adrenal incision,Incision of adrenal gland
-396,0742,Adrenal nerve division,Division of nerves to adrenal glands
-397,0743,Adrenal vessel ligation,Ligation of adrenal vessels
-398,0744,Adrenal repair,Repair of adrenal gland
-399,0745,Adrenal reimplantation,Reimplantation of adrenal tissue
-400,0749,Adrenal operation NEC,"Other operations on adrenal glands, nerves, and vessels"
-401,0751,Pineal field exploration,Exploration of pineal field
-402,0752,Pineal gland incision,Incision of pineal gland
-403,0753,Partial pinealectomy,Partial excision of pineal gland
-404,0754,Total pinealectomy,Total excision of pineal gland
-405,0759,Pineal operation NEC,Other operations on pineal gland
-406,0761,Exc pituit les-transfron,"Partial excision of pituitary gland, transfrontal approach"
-407,0762,Exc pituit les-transphen,"Partial excision of pituitary gland, transsphenoidal approach"
-408,0763,Part excis pituitary NOS,"Partial excision of pituitary gland, unspecified approach"
-409,0764,Tot exc pituit-transfron,"Total excision of pituitary gland, transfrontal approach"
-410,0765,Tot exc pituit-transphen,"Total excision of pituitary gland, transsphenoidal approach"
-411,0768,Total exc pituitary NEC,"Total excision of pituitary gland, other specified approach"
-412,0769,Total exc pituitary NOS,"Total excision of pituitary gland, unspecified approach"
-413,0771,Pituitary fossa explorat,Exploration of pituitary fossa
-414,0772,Pituitary gland incision,Incision of pituitary gland
-415,0779,Pituitary operation NEC,Other operations on hypophysis
-416,0780,Thymectomy NOS,"Thymectomy, not otherwise specified"
-417,0781,Oth part excision thymus,Other partial excision of thymus
-418,0782,Oth totl excision thymus,Other total excision of thymus
-419,0783,Thorac part exisn thymus,Thoracoscopic partial excision of thymus
-420,0784,Thorac total exc thymus,Thoracoscopic total excision of thymus
-421,0791,Thymus field exploration,Exploration of thymus field
-422,0792,Other incision of thymus,Other incision of thymus
-423,0793,Repair of thymus,Repair of thymus
-424,0794,Thymus transplantation,Transplantation of thymus
-425,0795,Thorac incision thymus,Thoracoscopic incision of thymus
-426,0798,Oth thorac op thymus NOS,Other and unspecified thoracoscopic operations on thymus
-427,0799,Other thymus ops NOS,Other and unspecified operations on thymus
-428,0801,Incision of lid margin,Incision of lid margin
-429,0802,Blepharorrhaphy severing,Severing of blepharorrhaphy
-430,0809,Other eyelid incision,Other incision of eyelid
-431,0811,Eyelid biopsy,Biopsy of eyelid
-432,0819,Eyelid dx procedure NEC,Other diagnostic procedures on eyelid
-433,0820,Remove eyelid lesion NOS,"Removal of lesion of eyelid, not otherwise specified"
-434,0821,Chalazion excision,Excision of chalazion
-435,0822,Excise minor les lid NEC,Excision of other minor lesion of eyelid
-436,0823,Exc maj les lid prt-thic,"Excision of major lesion of eyelid, partial-thickness"
-437,0824,Exc maj les lid ful-thic,"Excision of major lesion of eyelid, full-thickness"
-438,0825,Destruction lid lesion,Destruction of lesion of eyelid
-439,0831,Ptosis rep-front mus sut,Repair of blepharoptosis by frontalis muscle technique with suture
-440,0832,Ptosis rep-fron mus slng,Repair of blepharoptosis by frontalis muscle technique with fascial sling
-441,0833,Ptosis rep-levat mus adv,Repair of blepharoptosis by resection or advancement of levator muscle or aponeurosis
-442,0834,Ptosis rep-levat mus NEC,Repair of blepharoptosis by other levator muscle techniques
-443,0835,Ptos rep-tarsal techniq,Repair of blepharoptosis by tarsal technique
-444,0836,Blepharoptos repair NEC,Repair of blepharoptosis by other techniques
-445,0837,Reduc overcorrect ptosis,Reduction of overcorrection of ptosis
-446,0838,Correct lid retraction,Correction of lid retraction
-447,0841,Thermocaut/entropion rep,Repair of entropion or ectropion by thermocauterization
-448,0842,Suture entropion repair,Repair of entropion or ectropion by suture technique
-449,0843,Wedg resec entropion rep,Repair of entropion or ectropion with wedge resection
+85,63,Perc ins carotid stent,Percutaneous insertion of carotid artery stent(s)
+86,64,Perc ins extracran stent,Percutaneous insertion of other extracranial artery stent(s)
+87,65,Perc ins intracran stent,Percutaneous insertion of intracranial vascular stent(s)
+88,66,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+89,67,Intravas msmnt thorc art,Intravascular pressure measurement of intrathoracic arteries
+90,68,Intravas msmt periph art,Intravascular pressure measurement of peripheral arteries
+91,69,Intravs msmt ves NEC/NOS,"Intravascular pressure measurement, other specified and unspecified vessels"
+92,70,Rev hip repl-acetab/fem,"Revision of hip replacement, both acetabular and femoral components"
+93,71,Rev hip repl-acetab comp,"Revision of hip replacement, acetabular component"
+94,72,Rev hip repl-fem comp,"Revision of hip replacement, femoral component"
+95,73,Rev hip repl-liner/head,"Revision of hip replacement, acetabular liner and/or femoral head only"
+96,74,"Hip surface, metal/poly","Hip bearing surface, metal-on-polyethylene"
+97,75,"Hip surface, metal/metal","Hip bearing surface, metal-on-metal"
+98,76,"Hip surface, cermc/cermc","Hip bearing surface, ceramic-on-ceramic"
+99,77,"Hip surface, cermc/poly","Hip bearing surface, ceramic-on-polyethylene"
+100,80,Rev knee replacemt-total,"Revision of knee replacement, total (all components)"
+101,81,Rev knee repl-tibia comp,"Revision of knee replacement, tibial component"
+102,82,Rev knee repl-femur comp,"Revision of knee replacement, femoral component"
+103,83,Rev knee replace-patella,"Revision of knee replacement, patellar component"
+104,84,Rev knee repl-tibia lin,"Revision of total knee replacement, tibial insert (liner)"
+105,85,"Resrf hip,total-acet/fem","Resurfacing hip, total, acetabulum and femoral head"
+106,86,"Resrf hip,part-fem head","Resurfacing hip, partial, femoral head"
+107,87,"Resrf hip,part-acetablum","Resurfacing hip, partial, acetabulum"
+108,91,Trnsplnt live rel donor,Transplant from live related donor
+109,92,Trnsplnt live nonrel don,Transplant from live non-related donor
+110,93,Transplant cadaver donor,Transplant from cadaver
+111,94,Intra-op neurophys montr,Intra-operative neurophysiologic monitoring
+112,95,Injct/infus glucarpidase,Injection or infusion of glucarpidase
+113,96,Infusion 4F-PCC,Infusion of 4-Factor Prothrombin Complex Concentrate
+114,101,Cisternal puncture,Cisternal puncture
+115,102,Ventricl shunt tube punc,Ventriculopuncture through previously implanted catheter
+116,109,Cranial puncture NEC,Other cranial puncture
+117,110,Intracran pressure montr,Intracranial pressure monitoring
+118,111,Clos cereb meninges bx,Closed [percutaneous] [needle] biopsy of cerebral meninges
+119,112,Open cereb meninges bx,Open biopsy of cerebral meninges
+120,113,Closed brain biopsy,Closed [percutaneous] [needle] biopsy of brain
+121,114,Open brain biopsy,Open biopsy of brain
+122,115,Skull biopsy,Biopsy of skull
+123,116,Intracranial 02 monitor,Intracranial oxygen monitoring
+124,117,Brain temp monitoring,Brain temperature monitoring
+125,118,Other brain dx procedure,Other diagnostic procedures on brain and cerebral meninges
+126,119,Other skull dx procedure,Other diagnostic procedures on skull
+127,120,Imp/repl brain pulse gen,Cranial implantation or replacement of neurostimulator pulse generator
+128,121,Cranial sinus i & d,Incision and drainage of cranial sinus
+129,122,Removal brain stim lead,Removal of intracranial neurostimulator lead(s)
+130,123,Reopen craniotomy site,Reopening of craniotomy site
+131,124,Other craniotomy,Other craniotomy
+132,125,Other craniectomy,Other craniectomy
+133,126,Ins cath cranial cav/tis,Insertion of catheter(s) into cranial cavity or tissue
+134,127,Rem cath cranial cav/tis,Removal of catheter(s) from cranial cavity or tissue
+135,128,Intracereb cth-burr hole,Placement of intracerebral catheter(s) via burr hole(s)
+136,129,Rem brain pulse generatr,Removal of cranial neurostimulator pulse generator
+137,1,Ther ult head & neck ves,Therapeutic ultrasound of vessels of head and neck
+138,2,Ther ultrasound of heart,Therapeutic ultrasound of heart
+139,3,Ther ult peripheral ves,Therapeutic ultrasound of peripheral vascular vessels
+140,9,Other therapeutic ultsnd,Other therapeutic ultrasound
+141,10,Implant chemothera agent,Implantation of chemotherapeutic agent
+142,11,Infus drotrecogin alfa,Infusion of drotrecogin alfa (activated)
+143,12,Adm inhal nitric oxide,Administration of inhaled nitric oxide
+144,13,Inject/infus nesiritide,Injection or infusion of nesiritide
+145,14,Injection oxazolidinone,Injection or infusion of oxazolidinone class of antibiotics
+146,15,High-dose infusion IL-2,High-dose infusion interleukin-2 [IL-2]
+147,16,Pressurized treat graft,Pressurized treatment of venous bypass graft [conduit] with pharmaceutical substance
+148,17,Infusion of vasopressor,Infusion of vasopressor agent
+149,18,Infus immunosup antibody,Infusion of immunosuppressive antibody therapy
+150,19,BBBD via infusion,Disruption of blood brain barrier via infusion [BBBD]
+151,21,IVUS extracran cereb ves,Intravascular imaging of extracranial cerebral vessels
+152,22,IVUS intrathoracic ves,Intravascular imaging of intrathoracic vessels
+153,23,IVUS peripheral vessels,Intravascular imaging of peripheral vessels
+154,24,IVUS coronary vessels,Intravascular imaging of coronary vessels
+155,25,IVUS renal vessels,Intravascular imaging of renal vessels
+156,28,Intravascul imaging NEC,"Intravascular imaging, other specified vessel(s)"
+157,29,Intravascul imaging NOS,"Intravascular imaging, unspecified vessel(s)"
+158,31,CAS w CT/CTA,Computer assisted surgery with CT/CTA
+159,32,CAS w MR/MRA,Computer assisted surgery with MR/MRA
+160,33,CAS w fluoroscopy,Computer assisted surgery with fluoroscopy
+161,34,Imageless comp asst surg,Imageless computer assisted surgery
+162,35,CAS w multiple datasets,Computer assisted surgery with multiple datasets
+163,39,Other CAS,Other computer assisted surgery
+164,40,Procedure-one vessel,Procedure on single vessel
+165,41,Procedure-two vessels,Procedure on two vessels
+166,42,Procedure-three vessels,Procedure on three vessels
+167,43,Procedure-four+ vessels,Procedure on four or more vessels
+168,44,Proc-vessel bifurcation,Procedure on vessel bifurcation
+169,45,Insert 1 vascular stent,Insertion of one vascular stent
+170,46,Insert 2 vascular stents,Insertion of two vascular stents
+171,47,Insert 3 vascular stents,Insertion of three vascular stents
+172,48,Insert 4+ vasculr stents,Insertion of four or more vascular stents
+173,49,SuperSat O2 therapy,Supersaturated oxygen therapy
+174,50,Impl CRT pacemaker sys,"Implantation of cardiac resynchronization pacemaker without mention of defibrillation, total system [CRT-P]"
+175,51,Impl CRT defibrillat sys,"Implantation of cardiac resynchronization defibrillator, total system [CRT-D]"
+176,52,Imp/rep lead lf ven sys,Implantation or replacement of transvenous lead [electrode] into left ventricular coronary venous system
+177,53,Imp/rep CRT pacemakr gen,Implantation or replacement of cardiac resynchronization pacemaker pulse generator only [CRT-P]
+178,54,Imp/rep CRT defib genat,Implantation or replacement of cardiac resynchronization defibrillator pulse generator only [CRT-D]
+179,55,Ins d-e stent oth periph,Insertion of drug-eluting stent(s) of other peripheral vessel(s)
+180,56,Ins/rep sens-crd/vsl mtr,Insertion or replacement of implantable pressure sensor with lead for intracardiac or great vessel hemodynamic monitoring
+181,57,Imp/rep subcue card dev,Implantation or replacement of subcutaneous device for intracardiac or great vessel hemodynamic monitoring
+182,58,Ins intra-ansm pres mntr,Insertion of intra-aneurysm sac pressure monitoring device (intraoperative)
+183,59,Intravasc msmnt cor art,Intravascular pressure measurement of coronary arteries
+184,60,Ins d-e stnt sup fem art,Insertion of drug-eluting stent(s) of superficial femoral artery
+185,61,Perc angio extracran ves,Percutaneous angioplasty of extracranial vessel(s)
+186,62,Perc angio intracran ves,Percutaneous angioplasty of intracranial vessel(s)
+187,331,Spinal tap,Spinal tap
+188,332,Spinal cord/meninges bx,Biopsy of spinal cord or spinal meninges
+189,339,Other spinal dx proc,Other diagnostic procedures on spinal cord and spinal canal structures
+190,34,Excis spinal cord lesion,Excision or destruction of lesion of spinal cord or spinal meninges
+191,351,Spine meningocele repair,Repair of spinal meningocele
+192,352,Myelomeningocel repair,Repair of spinal myelomeningocele
+193,353,Vertebral fx repair,Repair of vertebral fracture
+194,359,Spinal struct repair NEC,Other repair and plastic operations on spinal cord structures
+195,36,Spinal cord adhesiolysis,Lysis of adhesions of spinal cord and nerve roots
+196,371,Subarach-periton shunt,Spinal subarachnoid-peritoneal shunt
+197,372,Subarach-ureteral shunt,Spinal subarachnoid-ureteral shunt
+198,379,Oth spinal thecal shunt,Other shunt of spinal theca
+199,38,Destr inject-spine canal,Injection of destructive agent into spinal canal
+200,390,Insert spinal canal cath,Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances
+201,391,Anesth inject-spin canal,Injection of anesthetic into spinal canal for analgesia
+202,392,Spinal canal inject NEC,Injection of other agent into spinal canal
+203,393,Imp/repl spine stim lead,Implantation or replacement of spinal neurostimulator lead(s)
+204,394,Removal spine stim lead,Removal of spinal neurostimulator lead(s)
+205,395,Spinal patch,Spinal blood patch
+206,396,Percutan facet denervat,Percutaneous denervation of facet
+207,397,Revise spine theca shunt,Revision of spinal thecal shunt
+208,398,Remove spine theca shunt,Removal of spinal thecal shunt
+209,399,Spine canal struc op NEC,Other operations on spinal cord and spinal canal structures
+210,401,Excision acoustc neuroma,Excision of acoustic neuroma
+211,402,Trigeminal nerv division,Division of trigeminal nerve
+212,403,Periph nerve div NEC,Division or crushing of other cranial and peripheral nerves
+213,404,Periph nerve incis NEC,Other incision of cranial and peripheral nerves
+214,405,Gasserian ganglionectomy,Gasserian ganglionectomy
+215,406,Periph ganglionect NEC,Other cranial or peripheral ganglionectomy
+216,407,Periph nerv excision NEC,Other excision or avulsion of cranial and peripheral nerves
+217,201,Linear craniectomy,Opening of cranial suture
+218,202,Elevate skull fx fragmnt,Elevation of skull fracture fragments
+219,203,Skull flap formation,Formation of cranial bone flap
+220,204,Bone graft to skull,Bone graft to skull
+221,205,Skull plate insertion,Insertion of skull plate
+222,206,Cranial osteoplasty NEC,Other cranial osteoplasty
+223,207,Skull plate removal,Removal of skull plate
+224,211,Simple suture of dura,Simple suture of dura mater of brain
+225,212,Brain meninge repair NEC,Other repair of cerebral meninges
+226,213,Meninge vessel ligation,Ligation of meningeal vessel
+227,214,Choroid plexectomy,Choroid plexectomy
+228,221,Insert/replace EVD,Insertion or replacement of external ventricular drain [EVD]
+229,222,Intrcran vent shunt/anas,Intracranial ventricular shunt or anastomosis
+230,231,Ventricl shunt-head/neck,Ventricular shunt to structure in head and neck
+231,232,Ventri shunt-circula sys,Ventricular shunt to circulatory system
+232,233,Ventricl shunt-thorax,Ventricular shunt to thoracic cavity
+233,234,Ventricl shunt-abdomen,Ventricular shunt to abdominal cavity and organs
+234,235,Ventri shunt-uninary sys,Ventricular shunt to urinary system
+235,239,Vent shunt extracran NEC,Ventricular shunt to extracranial site NEC
+236,241,Irrigate/expl vent shunt,Irrigation and exploration of ventricular shunt
+237,242,Replace ventricle shunt,Replacement of ventricular shunt
+238,243,Remove ventricle shunt,Removal of ventricular shunt
+239,291,Lysis cortical adhesion,Lysis of cortical adhesions
+240,292,Brain repair,Repair of brain
+241,293,Imp/repl brain stim lead,Implantation or replacement of intracranial neurostimulator lead(s)
+242,294,Insert/replac skull tong,Insertion or replacement of skull tongs or halo traction device
+243,295,Remove skull tongs,Removal of skull tongs or halo traction device
+244,296,Insert sphenoid electrod,Insertion of sphenoidal electrodes
+245,299,Skull & brain op NEC,"Other operations on skull, brain, and cerebral meninges"
+246,301,Removal FB spinal canal,Removal of foreign body from spinal canal
+247,302,Reopen laminectomy site,Reopening of laminectomy site
+248,309,Spinal canal explor NEC,Other exploration and decompression of spinal canal
+249,31,Intraspin nerve root div,Division of intraspinal nerve root
+250,321,Percutaneous chordotomy,Percutaneous chordotomy
+251,329,Other chordotomy,Other chordotomy
+252,131,Incise cerebral meninges,Incision of cerebral meninges
+253,132,Lobotomy & tractotomy,Lobotomy and tractotomy
+254,139,Other brain incision,Other incision of brain
+255,141,Thalamus operations,Operations on thalamus
+256,142,Globus pallidus ops,Operations on globus pallidus
+257,151,Ex cereb meningeal les,Excision of lesion or tissue of cerebral meninges
+258,152,Hemispherectomy,Hemispherectomy
+259,153,Brain lobectomy,Lobectomy of brain
+260,159,Other brain excision,Other excision or destruction of lesion or tissue of brain
+261,16,Excise skull lesion,Excision of lesion of skull
+262,844,Lid recons entropion rep,Repair of entropion or ectropion with lid reconstruction
+263,849,Entropion/ectrop rep NEC,Other repair of entropion or ectropion
+264,851,Canthotomy,Canthotomy
+265,852,Blepharorrhaphy,Blepharorrhaphy
+266,859,Adjust lid position NEC,Other adjustment of lid position
+267,861,Lid reconst w skin graft,Reconstruction of eyelid with skin flap or graft
+268,862,Lid reconst w muc graft,Reconstruction of eyelid with mucous membrane flap or graft
+269,863,Lid reconst w hair graft,Reconstruction of eyelid with hair follicle graft
+270,864,Lid recon-tarsoconj flap,Reconstruction of eyelid with tarsoconjunctival flap
+271,869,Lid reconstr w graft NEC,Other reconstruction of eyelid with flaps or grafts
+272,870,Lid reconstruction NOS,"Reconstruction of eyelid, not otherwise specified"
+273,871,Lid marg recon-part thic,"Reconstruction of eyelid involving lid margin, partial-thickness"
+274,872,Lid recons-part thic NEC,"Other reconstruction of eyelid, partial-thickness"
+275,873,Lid marg recons ful thic,"Reconstruction of eyelid involving lid margin, full-thickness"
+276,874,Lid reconst-ful thic NEC,"Other reconstruction of eyelid, full-thickness"
+277,881,Linear rep lid lacer,Linear repair of laceration of eyelid or eyebrow
+278,882,Lid marg lac rx-part th,"Repair of laceration involving lid margin, partial-thickness"
+279,883,Lid lacer rx-prt th NEC,"Other repair of laceration of eyelid, partial-thickness"
+280,884,Lid marg lac rx-ful thic,"Repair of laceration involving lid margin, full-thickness"
+281,885,Lid lac rx-ful thic NEC,"Other repair of laceration of eyelid, full-thickness"
+282,886,Lower lid rhytidectomy,Lower eyelid rhytidectomy
+283,887,Upper lid rhytidectomy,Upper eyelid rhytidectomy
+284,889,Eyelid repair NEC,Other eyelid repair
+285,891,Electrosurg lid epilat,Electrosurgical epilation of eyelid
+286,892,Cryosurg lid epilation,Cryosurgical epilation of eyelid
+287,893,Eyelid epilation NEC,Other epilation of eyelid
+288,899,Eyelid operation NEC,Other operations on eyelids
+289,90,Lacrimal gland incision,Incision of lacrimal gland
+290,911,Lacrimal gland biopsy,Biopsy of lacrimal gland
+291,912,Lacrimal sac biopsy,Biopsy of lacrimal sac
+292,919,Lacrimal sys dx proc NEC,Other diagnostic procedures on lacrimal system
+293,920,Exc lacrimal gland NOS,"Excision of lacrimal gland, not otherwise specified"
+294,921,Excis les lacrimal gland,Excision of lesion of lacrimal gland
+295,922,Part dacryoadenect NEC,Other partial dacryoadenectomy
+296,923,Total dacryoadenectomy,Total dacryoadenectomy
+297,93,Other lacrimal gland ops,Other operations on lacrimal gland
+298,941,Lacrimal punctum probe,Probing of lacrimal punctum
+299,942,Lac canaliculi probe,Probing of lacrimal canaliculi
+300,943,Nasolacrimal duct probe,Probing of nasolacrimal duct
+301,944,Nasolac duct intubat,Intubation of nasolacrimal duct
+302,949,Lac passage manip NEC,Other manipulation of lacrimal passage
+303,951,Lac punctum incision,Incision of lacrimal punctum
+304,952,Lac canaliculi incision,Incision of lacrimal canaliculi
+305,953,Lacrimal sac incision,Incision of lacrimal sac
+306,959,Lacrim passage incis NEC,Other incision of lacrimal passages
+307,96,Lacrim sac/passage excis,Excision of lacrimal sac and passage
+308,971,Correct everted punctum,Correction of everted punctum
+309,972,Punctum repair NEC,Other repair of punctum
+310,973,Canaliculus repair,Repair of canaliculus
+311,981,Dacryocystorhinostomy,Dacryocystorhinostomy [DCR]
+312,982,Conjunctivocystorhinost,Conjunctivocystorhinostomy
+313,983,Conjunctivorhinos w tube,Conjunctivorhinostomy with insertion of tube or stent
+314,411,Clos periph nerve biopsy,Closed [percutaneous] [needle] biopsy of cranial or peripheral nerve or ganglion
+315,412,Open periph nerve biopsy,Open biopsy of cranial or peripheral nerve or ganglion
+316,419,Periph nerve dx proc NEC,Other diagnostic procedures on cranial and peripheral nerves and ganglia
+317,42,Periph nerve destruction,Destruction of cranial and peripheral nerves
+318,43,Peripheral nerve suture,Suture of cranial and peripheral nerves
+319,441,Decompress trigem root,Decompression of trigeminal nerve root
+320,442,Cran nerv root decom NEC,Other cranial nerve decompression
+321,443,Carpal tunnel release,Release of carpal tunnel
+322,444,Tarsal tunnel release,Release of tarsal tunnel
+323,449,Per nerve adhesiolys NEC,Other peripheral nerve or ganglion decompression or lysis of adhesions
+324,45,Peripheral nerve graft,Cranial or peripheral nerve graft
+325,46,Periph nerve transposit,Transposition of cranial and peripheral nerves
+326,471,Hypogloss-facial anastom,Hypoglossal-facial anastomosis
+327,472,Accessory-facial anastom,Accessory-facial anastomosis
+328,473,Access-hypogloss anastom,Accessory-hypoglossal anastomosis
+329,474,Periph nerv anastom NEC,Other anastomosis of cranial or peripheral nerve
+330,475,Postop revis per nerv op,Revision of previous repair of cranial and peripheral nerves
+331,476,Late repair per nerv inj,Repair of old traumatic injury of cranial and peripheral nerves
+332,479,Other neuroplasty,Other neuroplasty
+333,480,Periph nerve inject NOS,"Peripheral nerve injection, not otherwise specified"
+334,481,Anesth injec periph nerv,Injection of anesthetic into peripheral nerve for analgesia
+335,489,Periph nerve inject NEC,"Injection of other agent, except neurolytic"
+336,491,Neurectasis,Neurectasis
+337,492,Imp/repl peri stim lead,Implantation or replacement of peripheral neurostimulator lead(s)
+338,493,Removal peri stim lead,Removal of peripheral neurostimulator lead(s)
+339,499,Peripheral nerve ops NEC,Other operations on cranial and peripheral nerves
+340,50,Sympath nerve division,Division of sympathetic nerve or ganglion
+341,511,Sympathetic nerve biopsy,Biopsy of sympathetic nerve or ganglion
+342,519,Sympath nrv dx proc NEC,Other diagnostic procedures on sympathetic nerves or ganglia
+343,521,Sphenopalatin ganglionec,Sphenopalatine ganglionectomy
+344,522,Cervical sympathectomy,Cervical sympathectomy
+345,523,Lumbar sympathectomy,Lumbar sympathectomy
+346,524,Presacral sympathectomy,Presacral sympathectomy
+347,525,Periart sympathectomy,Periarterial sympathectomy
+348,529,Other sympathectomy,Other sympathectomy and ganglionectomy
+349,531,Anesth inject symp nerve,Injection of anesthetic into sympathetic nerve for analgesia
+350,532,Neurolyt injec-symp nrv,Injection of neurolytic agent into sympathetic nerve
+351,539,Sympath nerve inject NEC,Other injection into sympathetic nerve or ganglion
+352,581,Sympathetic nerve repair,Repair of sympathetic nerve or ganglion
+353,589,Sympathetic nerve op NEC,Other operations on sympathetic nerves or ganglia
+354,59,Other nervous system ops,Other operations on nervous system
+355,601,Thyroid field aspiration,Aspiration of thyroid field
+356,602,Reopen thyroid field wnd,Reopening of wound of thyroid field
+357,609,Incis thyroid field NEC,Other incision of thyroid field
+358,611,Closed thyroid gland bx,Closed [percutaneous] [needle] biopsy of thyroid gland
+359,612,Open thyroid gland bx,Open biopsy of thyroid gland
+360,613,Parathyroid biopsy,Biopsy of parathyroid gland
+361,619,Thyr/parathy dx proc NEC,Other diagnostic procedures on thyroid and parathyroid glands
+362,62,Unilat thyroid lobectomy,Unilateral thyroid lobectomy
+363,631,Excision thyroid lesion,Excision of lesion of thyroid
+364,639,Part thyroidectomy NEC,Other partial thyroidectomy
+365,64,Complete thyroidectomy,Complete thyroidectomy
+366,650,Substern thyroidect NOS,"Substernal thyroidectomy, not otherwise specified"
+367,651,Part substern thyroidect,Partial substernal thyroidectomy
+368,652,Tot substern thyroidect,Complete substernal thyroidectomy
+369,66,Lingual thyroid excision,Excision of lingual thyroid
+370,67,Thyrogloss duct excision,Excision of thyroglossal duct or tract
+371,681,Total parathyroidectomy,Complete parathyroidectomy
+372,689,Other parathyroidectomy,Other parathyroidectomy
+373,691,Thyroid isthmus division,Division of thyroid isthmus
+374,692,Thyroid vessel ligation,Ligation of thyroid vessels
+375,693,Thyroid suture,Suture of thyroid gland
+376,694,Thyroid reimplantation,Thyroid tissue reimplantation
+377,695,Parathyroid reimplant,Parathyroid tissue reimplantation
+378,698,Other thyroid operations,Other operations on thyroid glands
+379,699,Other parathyroid ops,Other operations on parathyroid glands
+380,700,Adrenal exploration NOS,"Exploration of adrenal field, not otherwise specified"
+381,701,Unilat adrenal explorat,Unilateral exploration of adrenal field
+382,702,Bilat adrenal explorat,Bilateral exploration of adrenal field
+383,711,Closed adrenal gland bx,Closed [percutaneous] [needle] biopsy of adrenal gland
+384,712,Open adrenal gland bx,Open biopsy of adrenal gland
+385,713,Transfront pituitary bx,"Biopsy of pituitary gland, transfrontal approach"
+386,714,Transphen pituitary bx,"Biopsy of pituitary gland, transsphenoidal approach"
+387,715,Pituitary biopsy NOS,"Biopsy of pituitary gland, unspecified approach"
+388,716,Thymus biopsy,Biopsy of thymus
+389,717,Pineal biopsy,Biopsy of pineal gland
+390,719,Endocrine dx proc NEC,"Other diagnostic procedures on adrenal glands, pituitary gland, pineal gland, and thymus"
+391,721,Adrenal lesion excision,Excision of lesion of adrenal gland
+392,722,Unilateral adrenalectomy,Unilateral adrenalectomy
+393,729,Part adrenalectomy NEC,Other partial adrenalectomy
+394,73,Bilateral adrenalectomy,Bilateral adrenalectomy
+395,741,Adrenal incision,Incision of adrenal gland
+396,742,Adrenal nerve division,Division of nerves to adrenal glands
+397,743,Adrenal vessel ligation,Ligation of adrenal vessels
+398,744,Adrenal repair,Repair of adrenal gland
+399,745,Adrenal reimplantation,Reimplantation of adrenal tissue
+400,749,Adrenal operation NEC,"Other operations on adrenal glands, nerves, and vessels"
+401,751,Pineal field exploration,Exploration of pineal field
+402,752,Pineal gland incision,Incision of pineal gland
+403,753,Partial pinealectomy,Partial excision of pineal gland
+404,754,Total pinealectomy,Total excision of pineal gland
+405,759,Pineal operation NEC,Other operations on pineal gland
+406,761,Exc pituit les-transfron,"Partial excision of pituitary gland, transfrontal approach"
+407,762,Exc pituit les-transphen,"Partial excision of pituitary gland, transsphenoidal approach"
+408,763,Part excis pituitary NOS,"Partial excision of pituitary gland, unspecified approach"
+409,764,Tot exc pituit-transfron,"Total excision of pituitary gland, transfrontal approach"
+410,765,Tot exc pituit-transphen,"Total excision of pituitary gland, transsphenoidal approach"
+411,768,Total exc pituitary NEC,"Total excision of pituitary gland, other specified approach"
+412,769,Total exc pituitary NOS,"Total excision of pituitary gland, unspecified approach"
+413,771,Pituitary fossa explorat,Exploration of pituitary fossa
+414,772,Pituitary gland incision,Incision of pituitary gland
+415,779,Pituitary operation NEC,Other operations on hypophysis
+416,780,Thymectomy NOS,"Thymectomy, not otherwise specified"
+417,781,Oth part excision thymus,Other partial excision of thymus
+418,782,Oth totl excision thymus,Other total excision of thymus
+419,783,Thorac part exisn thymus,Thoracoscopic partial excision of thymus
+420,784,Thorac total exc thymus,Thoracoscopic total excision of thymus
+421,791,Thymus field exploration,Exploration of thymus field
+422,792,Other incision of thymus,Other incision of thymus
+423,793,Repair of thymus,Repair of thymus
+424,794,Thymus transplantation,Transplantation of thymus
+425,795,Thorac incision thymus,Thoracoscopic incision of thymus
+426,798,Oth thorac op thymus NOS,Other and unspecified thoracoscopic operations on thymus
+427,799,Other thymus ops NOS,Other and unspecified operations on thymus
+428,801,Incision of lid margin,Incision of lid margin
+429,802,Blepharorrhaphy severing,Severing of blepharorrhaphy
+430,809,Other eyelid incision,Other incision of eyelid
+431,811,Eyelid biopsy,Biopsy of eyelid
+432,819,Eyelid dx procedure NEC,Other diagnostic procedures on eyelid
+433,820,Remove eyelid lesion NOS,"Removal of lesion of eyelid, not otherwise specified"
+434,821,Chalazion excision,Excision of chalazion
+435,822,Excise minor les lid NEC,Excision of other minor lesion of eyelid
+436,823,Exc maj les lid prt-thic,"Excision of major lesion of eyelid, partial-thickness"
+437,824,Exc maj les lid ful-thic,"Excision of major lesion of eyelid, full-thickness"
+438,825,Destruction lid lesion,Destruction of lesion of eyelid
+439,831,Ptosis rep-front mus sut,Repair of blepharoptosis by frontalis muscle technique with suture
+440,832,Ptosis rep-fron mus slng,Repair of blepharoptosis by frontalis muscle technique with fascial sling
+441,833,Ptosis rep-levat mus adv,Repair of blepharoptosis by resection or advancement of levator muscle or aponeurosis
+442,834,Ptosis rep-levat mus NEC,Repair of blepharoptosis by other levator muscle techniques
+443,835,Ptos rep-tarsal techniq,Repair of blepharoptosis by tarsal technique
+444,836,Blepharoptos repair NEC,Repair of blepharoptosis by other techniques
+445,837,Reduc overcorrect ptosis,Reduction of overcorrection of ptosis
+446,838,Correct lid retraction,Correction of lid retraction
+447,841,Thermocaut/entropion rep,Repair of entropion or ectropion by thermocauterization
+448,842,Suture entropion repair,Repair of entropion or ectropion by suture technique
+449,843,Wedg resec entropion rep,Repair of entropion or ectropion with wedge resection
 450,1421,Chorioret les diathermy,Destruction of chorioretinal lesion by diathermy
 451,1422,Chorioretin les cryother,Destruction of chorioretinal lesion by cryotherapy
 452,2932,Pharyngeal diverticulec,Pharyngeal diverticulectomy
@@ -819,8 +819,8 @@ row_id,icd9_code,short_title,long_title
 818,1699,Operation on eyeball NEC,Other operations on eyeball
 819,1711,Lap dir ing hern-graft,Laparoscopic repair of direct inguinal hernia with graft or prosthesis
 820,1712,Lap indir ing hern-graft,Laparoscopic repair of indirect inguinal hernia with graft or prosthesis
-821,0991,Lac punctum obliteration,Obliteration of lacrimal punctum
-822,0999,Lacrimal system op NEC,Other operations on lacrimal system
+821,991,Lac punctum obliteration,Obliteration of lacrimal punctum
+822,999,Lacrimal system op NEC,Other operations on lacrimal system
 823,100,Incise/remov conjunct FB,Removal of embedded foreign body from conjunctiva by incision
 824,101,Conjunctiva incision NEC,Other incision of conjunctiva
 825,1021,Conjunctival biopsy,Biopsy of conjunctiva
