@@ -125,8 +125,8 @@ def main():
     random.seed(args.seed)
     np.random.seed(args.seed)
     torch.manual_seed(args.seed)
-    torch.cuda.manual_seed(args.seed)
-    torch.cuda.manual_seed_all(args.seed)  # if use multi-GPU
+    # torch.cuda.manual_seed(args.seed)
+    # torch.cuda.manual_seed_all(args.seed)  # if use multi-GPU
     torch.backends.cudnn.deterministic = True
 
     if args.task != 'w2v':

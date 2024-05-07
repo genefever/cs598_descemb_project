@@ -74,7 +74,7 @@ class Trainer(object):
             )
         )
 
-        self.model = nn.DataParallel(model, device_ids=args.device_ids).to('cuda')
+        self.model = nn.DataParallel(model, device_ids=args.device_ids).to('cpu')
 
         for subset in ['train'] + self.valid_subsets:
             self.load_dataset(subset)
