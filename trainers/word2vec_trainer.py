@@ -56,7 +56,7 @@ class Word2VecTrainer():
             dataset=dataset, batch_size=args.batch_size, shuffle=True
             )
 
-        self.model = Word2VecModel(index_size, emb_dim=args.enc_embed_dim).cpu()
+        self.model = Word2VecModel(index_size, emb_dim=args.enc_embed_dim).cuda()
         self.optimizer = optim.AdamW(self.model.parameters(), lr=1e-4)
 
         self.early_stopping = EarlyStopping(patience=20, verbose=True)
@@ -67,9 +67,9 @@ class Word2VecTrainer():
             avg_loss = 0
             for iter, sample in enumerate(self.dataloader):
                 batch_input, batch_labels, batch_neg = sample
-                batch_input = batch_input.cpu()
-                batch_labels = batch_labels.cpu()
-                batch_neg = batch_neg.cpu()
+                batch_input = batch_input.cuda()
+                batch_labels = batch_labels.cuda()
+                batch_neg = batch_neg.cuda()
                 
                 loss = self.model(batch_input, batch_labels, batch_neg)
                 self.optimizer.zero_grad(set_to_none=True)
