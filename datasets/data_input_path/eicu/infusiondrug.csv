@@ -1,4 +1,4 @@
-INFUSIONDRUGID,PATIENTUNITSTAYID,INFUSIONOFFSET,DRUGNAME,DRUGRATE,INFUSIONRATE,DRUGAMOUNT,VOLUMEOFFLUID,PATIENTWEIGHT
+infusiondrugid,patientunitstayid,infusionoffset,drugname,drugrate,infusionrate,drugamount,volumeoffluid,patientweight
 40215081,1461035,768,Volume (mL) Magnesium  (ml/hr),25,,,,
 38752780,1461035,648,Volume (mL) Magnesium  (ml/hr),25,,,,
 36960718,1461035,-1812,Volume (mL) Magnesium  (ml/hr),25,,,,

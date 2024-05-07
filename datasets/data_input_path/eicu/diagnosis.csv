@@ -1,4 +1,4 @@
-DIAGNOSISID,PATIENTUNITSTAYID,ACTIVEUPONDISCHARGE,DIAGNOSISOFFSET,DIAGNOSISSTRING,ICD9CODE,DIAGNOSISPRIORITY
+diagnosisid,patientunitstayid,activeupondischarge,diagnosisoffset,diagnosisstring,icd9code,diagnosispriority
 7607199,346380,False,5028,cardiovascular|ventricular disorders|hypertension,"401.9, I10",Other
 7570429,346380,False,685,neurologic|altered mental status / pain|change in mental status,"780.09, R41.82",Major
 7705483,346380,True,5035,cardiovascular|shock / hypotension|hypotension,"458.9, I95.9",Major
