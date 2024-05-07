@@ -139,7 +139,7 @@ def split_and_update(X, task, fold_task, ratio, seed):
     filtered_data = X[filter_mask]
 
     _, exclude_data_train = train_test_split(
-        filtered_data, test_size=1-(int(ratio)/100), 
+        filtered_data, test_size=0.8, 
         stratify=None, 
         random_state=seed
         )
@@ -148,7 +148,7 @@ def split_and_update(X, task, fold_task, ratio, seed):
     filter_mask_valid = X[fold_task] == 2
     filtered_data_valid = X[filter_mask_valid]
     _, exclude_data_valid = train_test_split(
-        filtered_data_valid, test_size=1-(int(ratio)/100), 
+        filtered_data_valid, test_size=0.8, 
         stratify=None, 
         random_state=seed
         )
