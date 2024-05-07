@@ -144,7 +144,9 @@ class Trainer(object):
 
             for sample in tqdm.tqdm(self.data_loaders['train']):    
                 self.optimizer.zero_grad(set_to_none=True)
-                net_output = self.model(**sample["net_input"])
+                # net_output = self.model(**sample["net_input"])
+                net_input = {k: v.to(self.device) for k, v in sample['net_input'].items()}
+                net_output = self.model(**net_input)
                 #NOTE we assume self.model is wrapped by torch.nn.parallel.data_parallel.DataParallel
                 logits = self.model.module.get_logits(net_output)
                 target = self.model.module.get_targets(sample).to(logits.device)
