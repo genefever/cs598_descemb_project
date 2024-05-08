@@ -2,9 +2,9 @@
 
 ---
 
-### Project Draft Jupyter Notebook
+## The Final Project Jupyter Notebook File is in the root directory, and is named
 
-`descemb_project_draft_submission.ipynb`
+`CS598_DescEmb_Project.ipynb`
 
 **Name:** Gene Horecka  
 **Email:** [geneeh2@illinois.edu](mailto:geneeh2@illinois.edu)  
