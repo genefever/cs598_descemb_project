@@ -74,7 +74,14 @@ class Trainer(object):
             )
         )
 
-        self.model = nn.DataParallel(model, device_ids=args.device_ids).to('cpu')
+        # self.model = nn.DataParallel(model, device_ids=args.device_ids).to('cpu')
+        if torch.cuda.is_available():
+            device = torch.device("cuda")  # You can also specify a specific device like "cuda:0"
+            self.model = model.to(device)  # Move the model to the GPU before wrapping with DataParallel
+            self.model = nn.DataParallel(self.model, device_ids=args.device_ids)
+        else:
+            print("CUDA is not available. Using CPU instead.")
+            self.model = nn.DataParallel(model).to('cpu')
 
         for subset in ['train'] + self.valid_subsets:
             self.load_dataset(subset)
