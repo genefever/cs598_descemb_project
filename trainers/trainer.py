@@ -74,7 +74,14 @@ class Trainer(object):
             )
         )
 
-        self.model = nn.DataParallel(model, device_ids=args.device_ids).to('cuda')
+        # self.model = nn.DataParallel(model, device_ids=args.device_ids).to('cpu')
+        if torch.cuda.is_available():
+            device = torch.device("cuda")  # You can also specify a specific device like "cuda:0"
+            self.model = model.to(device)  # Move the model to the GPU before wrapping with DataParallel
+            self.model = nn.DataParallel(self.model, device_ids=args.device_ids)
+        else:
+            print("CUDA is not available. Using CPU instead.")
+            self.model = nn.DataParallel(model).to('cpu')
 
         for subset in ['train'] + self.valid_subsets:
             self.load_dataset(subset)
@@ -144,9 +151,7 @@ class Trainer(object):
 
             for sample in tqdm.tqdm(self.data_loaders['train']):    
                 self.optimizer.zero_grad(set_to_none=True)
-                # net_output = self.model(**sample["net_input"])
-                net_input = {k: v.to(self.device) for k, v in sample['net_input'].items()}
-                net_output = self.model(**net_input)
+                net_output = self.model(**sample["net_input"])
                 #NOTE we assume self.model is wrapped by torch.nn.parallel.data_parallel.DataParallel
                 logits = self.model.module.get_logits(net_output)
                 target = self.model.module.get_targets(sample).to(logits.device)

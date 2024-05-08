@@ -391,8 +391,12 @@ class Word2VecDataset(BaseDataset):
                 self.data_path, f"code_index{self.ext}")
         )
 
-        self.pos_pair, self.neg_pair = self.preprocess(input_idcs)
-        self.pos_pair.pop(0)
+        if self.pos_pair:  # Check if the dictionary is not empty
+            first_key = next(iter(self.pos_pair))  # Get the first key
+            self.pos_pair.pop(first_key)
+        else:
+            print("pos_pair is empty")
+
         self.index_dict = {i: k for i, k in enumerate(self.pos_pair.keys())}
 
     def __len__(self):
